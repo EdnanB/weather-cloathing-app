@@ -1,32 +1,23 @@
-# Import neophodnih modula i funkcija
-import base64 #Koristi se za enkodiranje podataka u base64 format (enkodiranje slika).
-#Cesto koristi za prenos binarnih podataka preko protokola koji očekuju tekstualne podatke, kao što su slike ili datoteke u emailu.
-import cv2 #Koristi se za obradu slika (učitavanje i enkodiranje slika).
+import base64
+import cv2
 from flask import Flask, render_template, request, redirect, url_for, session, flash
-from flask_migrate import Migrate #flask_migrate je ekstenzija za Flask koja koristi Alembic za rad sa migracijama baza podataka.
-#Ova biblioteka omogućava jednostavno upravljanje promenama u strukturi baze podataka kroz migracije.
-import json #Koristi se za rad sa JSON podacima (parsiranje i generisanje JSON-a).
-#Ova biblioteka omogućava serijalizaciju (konverziju Python objekata u JSON format) i deserijalizaciju (konverziju JSON formata u Python objekte). 
+from flask_migrate import Migrate 
+import json
 from ml_utils import get_weather, load_models_and_encoders, get_weather_recommendation, get_weather_for_cities, is_valid_email, get_random_cities, get_countries_from_city_list
 from crud_operations import read_user, hash_password, edit_user
 from user_models import User, SuperUser, db, UserRecommendations, UserFeedback, UserCities
 
-#Flask je mikro web okvir za Python.
-# Inicijalizacija Flask aplikacije
-app = Flask(__name__) #Kreira instancu Flask aplikacije. __name__ predstavlja ime trenutnog modula. Flask koristi ovo kako bi znao gde da traži resurse poput statičkih fajlova i šablona.
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:ednan2544@localhost:3306/user_odjeca'
+
+app = Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://username:pw@localhost/branch_name'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-app.secret_key = 'your_secret_key' #Postavlja tajni ključ koji Flask koristi za sigurno upravljanje sesijama i zaštitu od CSRF napada.
-
-#CSRF (Cross-Site Request Forgery) token je bezbednosna mera koja štiti web aplikacije od neovlašćenih zahteva iz drugih sajtova.
-#Sprečava napade koji koriste autentifikaciju korisnika za slanje malicioznih zahteva.
+app.secret_key = 'your_secret_key'
 
 
-# Inicijalizacija baze podataka i migracije
 db.init_app(app) #Inicijalizuje SQLAlchemy sa Flask aplikacijom.
 migrate = Migrate(app, db)
 
-# Učitavanje ML modela i enkodera
+
 models_male_path = 'models/models_male.pkl'
 models_female_path = 'models/models_female.pkl'
 weather_encoder_path = 'models/weather_encoder.pkl'
@@ -36,33 +27,25 @@ models_male, models_female, weather_encoder = load_models_and_encoders(models_ma
 if models_male is None or models_female is None or weather_encoder is None:
     raise ValueError("Nisu uspješno učitani modeli i enkoderi.")
 
-#raise funkcija se koristi za podizanje izuzetka. ValueError predstavlja grešku koja se desi kada funkcija primi ispravnu vrstu argumenta, ali argument ima neispravnu vrednost.
 
-# Provera sesije
 def check_session():
     return 'logged_in' in session and session['logged_in']
 
-# Filter za kapitalizaciju stringova
-@app.template_filter('capitalize') #To je dekorator koji registruje funkciju kao filter za kapitalizaciju stringova u šablonima.
+@app.template_filter('capitalize') 
 def capitalize_filter(s):
-    if isinstance(s, str): #Metoda isinstance proverava da li je objekat instanca određene klase ili tuple klasa.
+    if isinstance(s, str): 
         return s.capitalize()
     return s
 
-# Funkcija za enkodiranje slike
 def encode_image(image):
     if image is None:
         return None
-    _, buffer = cv2.imencode('.jpg', image) #Kodira sliku u JPEG format i čuva rezultat u buffer.
+    _, buffer = cv2.imencode('.jpg', image)
     return base64.b64encode(buffer).decode('utf-8')
 
-#buffer je promenljiva koja sadrži binarne podatke (bajtove) JPEG kodirane slike
-# _ Koristi se za ignorisanje vrednosti koja nije potrebna.
-# Rute (endpoints) za različite funkcionalnosti aplikacije
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    # Glavna strana sa random gradovima i vremenskim podacima
     selected_country = None
     if request.method == 'POST':
         selected_country = request.form.get('country')
@@ -84,7 +67,6 @@ def index():
         user_cities = UserCities.query.filter_by(user_id=user_id).first()
         if user_cities:
             cities = [tuple(city_country.rsplit(', ', 1)) for city_country in user_cities.cities.split(', ') if ', ' in city_country]
-            #Razlog za korišćenje tuple-a u ovoj liniji koda je taj što rsplit funkcija deli string na dva dela - naziv grada i naziv države, i vraća ih kao tuple (dva povezana elementa).
         else:
             cities = get_random_cities(country=selected_country)
     else:
@@ -96,7 +78,6 @@ def index():
 
 @app.route('/logged_in_index', methods=['GET', 'POST'])
 def logged_in_index():
-    # Strana za prijavljene korisnike sa vremenskim podacima za random gradove
     if not check_session() or session.get('is_admin'):
         return redirect(url_for('index'))
 
@@ -113,7 +94,6 @@ def logged_in_index():
 
 @app.route('/main_page')
 def main_page():
-    # Glavna strana za prijavljene korisnike
     if not check_session():
         return redirect(url_for('login'))
     if session.get('is_admin'):
@@ -122,7 +102,6 @@ def main_page():
 
 @app.route('/result', methods=['GET', 'POST'])
 def result():
-    # Strana sa rezultatom preporuke za odjeću bazirano na vremenskim uslovima
     if not check_session() or session.get('is_admin'):
         return redirect(url_for('login'))
 
@@ -183,7 +162,6 @@ def result():
 
 @app.route('/register', methods=['GET', 'POST'])
 def register():
-    # Registracija korisnika
     if request.method == 'POST':
         username = request.form['username']
         password = request.form['password']
@@ -197,7 +175,6 @@ def register():
             flash('Lozinke se ne podudaraju. Molimo pokušajte ponovo.', 'error')
             return redirect(url_for('register'))
         
-        #flash je funkcija iz Flask framework-a koja se koristi za prikazivanje privremenih poruka korisnicima. 
 
         if not is_valid_email(email):
             flash('Email adresa nije validna. Molimo unesite ispravnu email adresu.', 'error')
@@ -226,7 +203,6 @@ def register():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():
-    # Prijava korisnika
     if request.method == 'POST':
         identifier = request.form['identifier']
         password = request.form['password']
@@ -260,7 +236,6 @@ def logout():
 
 @app.route('/save_feedback', methods=['POST'])
 def save_feedback():
-    # Čuvanje povratnih informacija korisnika
     if not check_session():
         return redirect(url_for('login'))
 
@@ -300,7 +275,6 @@ def save_feedback():
 
 @app.route('/save_recommendation', methods=['POST'])
 def save_recommendation():
-    # Čuvanje preporuke
     if not check_session():
         return redirect(url_for('login'))
 
@@ -324,7 +298,6 @@ def save_recommendation():
 
 @app.route('/admin_panel')
 def admin_panel():
-    # Admin panel za pregled korisnika
     if not check_session() or not session.get('is_admin'):
         return redirect(url_for('admin_login'))
 
@@ -333,7 +306,6 @@ def admin_panel():
 
 @app.route('/create_user', methods=['GET', 'POST'])
 def create_user_route():
-    # Kreiranje novog korisnika od strane admina
     if request.method == 'POST':
         username = request.form['username']
         password = request.form['password']
@@ -374,7 +346,6 @@ def create_user_route():
 
 @app.route('/read_user/<int:user_id>')
 def read_user_route(user_id):
-    # Pregled detalja korisnika
     user = User.query.get(user_id)
     if user:
         return render_template('read_user.html', user=user)
@@ -383,7 +354,6 @@ def read_user_route(user_id):
 
 @app.route('/update_user/<int:user_id>', methods=['GET', 'POST'])
 def update_user_route(user_id):
-    # Ažuriranje podataka korisnika
     user = User.query.get(user_id)
     if request.method == 'POST':
         current_password = request.form['current_password']
@@ -405,7 +375,6 @@ def update_user_route(user_id):
 
 @app.route('/delete_user/<int:user_id>', methods=['POST', 'DELETE'])
 def delete_user_route(user_id):
-    # Brisanje korisnika
     if request.method == 'POST' or request.method == 'DELETE':
         user = User.query.get(user_id)
         if user:
@@ -421,7 +390,6 @@ def delete_user_route(user_id):
 
 @app.route('/admin_login', methods=['GET', 'POST'])
 def admin_login():
-    # Prijava admina
     if request.method == 'POST':
         username = request.form['username']
         password = request.form['password']
@@ -447,11 +415,7 @@ def admin_login():
 
 @app.route('/about_us')
 def about_us():
-    # Strana "O nama"
     return render_template('about_us.html')
 
-# Pokretanje aplikacije
 if __name__ == '__main__': 
     app.run(debug=True)
-
-#Proverava da li se skripta pokreće direktno i pokreće Flask aplikaciju u debug modu.
