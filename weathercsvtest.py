@@ -1,11 +1,11 @@
 import os
 import pandas as pd
 
-# Define temperature range and weather conditions
+
 temperatures = range(-20, 41)  # Temperatures from -20 to 40 degrees Celsius
 weather_conditions = ["Clear", "Clouds", "Rainy", "Drizzle", "Thunderstorm", "Snow", "Foggy", "Haze", "Windy", "Tornado"]
 
-# Clothing recommendations
+
 clothing_recommendations = {
     "Clear": {
         "male": [("T-shirt", "Shorts", "Sandals"), ("T-shirt", "Shorts", "Sneakers"), ("Polo", "Shorts", "Loafers")],
