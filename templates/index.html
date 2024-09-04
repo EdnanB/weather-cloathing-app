@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="centered-container wider-container">
+    <h2>Dobrodošli na Preporuke za odjeću prema vremenskoj prognozi</h2>
+    <p>Dobijte personalizirane preporuke za odjeću na osnovu trenutnog vremena u vašem gradu.</p>
+    <p><span class="highlight-label">Da biste koristili uslugu, molimo <a href="{{ url_for('login') }}">prijavite se</a> ili <a href="{{ url_for('register') }}">registrujte se</a> ako još nemate nalog.</span></p>
+    
+    <h3>Trenutno vrijeme u nekim gradovima:</h3>
+    <form method="POST" action="{{ url_for('index') }}">
+        <div class="weather-cities">
+            {% for city, data in weather_data.items() %}
+            <div class="city-weather">
+                <h4>{{ city }}</h4>
+                <input type="hidden" name="cities[]" value="{{ city }}">
+                <p>Temperatura: {{ data.temperature }}°C</p>
+                <p>Vremenski uvjet: {{ data.condition }}</p>
+                <p>Brzina vjetra: {{ data.wind_speed }} m/s</p>
+            </div>
+            {% endfor %}
+        </div>
+        <button type="submit" class="button">Ažuriraj gradove</button>
+    </form>
+</div>
+{% endblock %}

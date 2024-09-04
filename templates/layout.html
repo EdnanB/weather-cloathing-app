@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preporuke za odjeću prema vremenu</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Preporuke za odjeću prema vremenu</h1>
+            <div class="menu-container">
+                <div class="menu-button">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+                <div class="menu">
+                    {% if not session.get('logged_in') %}
+                        <a href="{{ url_for('index') }}">Početna</a>
+                        <a href="{{ url_for('login') }}">Prijava</a>
+                        <a href="{{ url_for('register') }}">Registracija</a>
+                        <a href="{{ url_for('admin_login') }}">Admin Prijava</a>
+                        <a href="{{ url_for('about_us') }}">O nama</a>
+                    {% elif session.get('is_admin') %}
+                        <a href="{{ url_for('logged_in_index') }}">Početna</a>
+                        <a href="{{ url_for('admin_panel') }}">Admin Panel</a>
+                        <a href="{{ url_for('about_us') }}">O nama</a>
+                        <a href="{{ url_for('logout') }}">Odjava</a>
+                    {% else %}
+                        <a href="{{ url_for('logged_in_index') }}">Početna</a>
+                        <a href="{{ url_for('main_page') }}">Glavna Stranica</a>
+                        <a href="{{ url_for('about_us') }}">O nama</a>
+                        <a href="{{ url_for('logout') }}">Odjava</a>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="content">
+        {% block content %}{% endblock %}
+    </div>
+    <footer>
+        <p>&copy; 2024 Preporuke za odjeću prema vremenu. Sva prava pridržana.</p>
+    </footer>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</body>
+</html>

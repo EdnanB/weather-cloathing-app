@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="centered-container wider-container">
+    <h2>Admin Panel</h2>
+    <a href="{{ url_for('create_user_route') }}" class="button">Kreiraj korisnika</a>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Korisničko ime</th>
+                <th>Email adresa</th>
+                <th>Ime</th>
+                <th>Prezime</th>
+                <th>Spol</th>
+                <th>Akcije</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for user in users %}
+            <tr>
+                <td>{{ user.id }}</td>
+                <td>{{ user.username }}</td>
+                <td>{{ user.email }}</td>
+                <td>{{ user.ime }}</td>
+                <td>{{ user.prezime }}</td>
+                <td>{{ user.spol }}</td>
+                <td>
+                    <a href="{{ url_for('read_user_route', user_id=user.id) }}" class="button">Pročitaj</a>
+                    <a href="{{ url_for('update_user_route', user_id=user.id) }}" class="button">Uredi</a>
+                    <form action="{{ url_for('delete_user_route', user_id=user.id) }}" method="post" style="display:inline;">
+                        <button type="submit" class="button">Obriši</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <a href="{{ url_for('logout') }}" class="button">Odjavi se</a>
+</div>
+{% endblock %}

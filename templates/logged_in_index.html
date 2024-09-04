@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="centered-container wider-container">
+    <h2>Dobrodošli na Preporuke za odjeću prema vremenskoj prognozi</h2>
+    <p>Dobijte personalizirane preporuke za odjeću na osnovu trenutnog vremena u vašem gradu.</p>
+    <p><span class="highlight-label">Pronađite željeni <a href="{{ url_for('main_page') }}">grad</a> i dobijte preporuke za odjeću.</span></p>
+    
+    <h3>Trenutno vrijeme u nekim gradovima:</h3>
+    <form method="POST" action="{{ url_for('logged_in_index') }}">
+        <select name="country" id="country">
+            <option value="">Odaberite državu</option>
+            {% for country in countries %}
+            <option value="{{ country }}" {% if selected_country == country %}selected{% endif %}>{{ country }}</option>
+            {% endfor %}
+        </select>
+        <div class="weather-cities">
+            {% for city, country in cities %}
+            <div class="city-weather clickable-city">
+                <h4>{{ city }}</h4>
+                <input type="hidden" name="cities[]" value="{{ city }}">
+                <p>Country: {{ country }}</p>
+                {% if weather_data[city + ', ' + country] %}
+                <p>Temperatura: {{ weather_data[city + ', ' + country].temperature }}°C</p>
+                <p>Vremenski uvjet: {{ weather_data[city + ', ' + country].condition }}</p>
+                <p>Brzina vjetra: {{ weather_data[city + ', ' + country].wind_speed }} m/s</p>
+                {% else %}
+                <p>Podaci o vremenu nisu dostupni</p>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+        <button type="submit" class="button">Ažuriraj gradove</button>
+    </form>
+</div>
+{% endblock %}

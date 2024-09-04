@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="centered-container wider-container">
+    <h2>Registracija</h2>
+    <form action="{{ url_for('register') }}" method="post" class="styled-form">
+        <label for="username" class="highlight-label">Korisničko ime:</label>
+        <input type="text" id="username" name="username" required>
+        
+        <label for="password" class="highlight-label">Lozinka:</label>
+        <input type="password" id="password" name="password" required>
+
+        <label for="confirm_password" class="highlight-label">Ponovi Lozinku:</label>
+        <input type="password" id="confirm_password" name="confirm_password" required>
+
+        <label for="email" class="highlight-label">Email:</label>
+        <input type="email" id="email" name="email" required>
+        
+        <label for="ime" class="highlight-label">Ime:</label>
+        <input type="text" id="ime" name="ime" required>
+        
+        <label for="prezime" class="highlight-label">Prezime:</label>
+        <input type="text" id="prezime" name="prezime" required>
+        
+        <label for="spol" class="highlight-label">Spol:</label>
+        <select id="spol" name="spol" required>
+            <option value="male">Muški</option>
+            <option value="female">Ženski</option>
+        </select>
+        
+        <button type="submit" class="button">Registracija</button>
+    </form>
+</div>
+{% endblock %}

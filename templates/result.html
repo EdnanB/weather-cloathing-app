@@ -1,0 +1,76 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="centered-container wider-container">
+    <h2>{{ 'Preporuka za odjeću za' }} {{ city }}</h2>
+    <p><span class="highlight-label">{{ 'Temperatura' }}:</span> {{ temperature }}°C</p>
+    <p><span class="highlight-label">{{ 'Vremenski uvjet' }}:</span> {{ weather_condition }}</p>
+    <p><span class="highlight-label">{{ 'Brzina vjetra' }}:</span> {{ wind_speed }} m/s</p>
+    <p><span class="highlight-label">{{ 'Smjer vjetra' }}:</span> {{ wind_degree }}°</p>
+
+    <h3>{{ 'Preporučena odjeća' }}</h3>
+    <div class="recommendations-container">
+        <div class="recommendation-column">
+            <h4>Gornja odjeća</h4>
+            <p>{{ upper_wear|capitalize }}</p>
+            {% if upper_wear_image %}
+                <img src="data:image/jpeg;base64,{{ upper_wear_image }}" alt="{{ upper_wear }}" class="recommendation-image">
+            {% else %}
+                <p>No image found for {{ upper_wear }}</p>
+            {% endif %}
+        </div>
+        {% if lower_wear %}
+        <div class="recommendation-column">
+            <h4>Donja odjeća</h4>
+            <p>{{ lower_wear|capitalize }}</p>
+            {% if lower_wear_image %}
+                <img src="data:image/jpeg;base64,{{ lower_wear_image }}" alt="{{ lower_wear }}" class="recommendation-image">
+            {% else %}
+                <p>No image found for {{ lower_wear }}</p>
+            {% endif %}
+        </div>
+        {% endif %}
+        <div class="recommendation-column">
+            <h4>Obuća</h4>
+            <p>{{ footwear|capitalize }}</p>
+            {% if footwear_image %}
+                <img src="data:image/jpeg;base64,{{ footwear_image }}" alt="{{ footwear }}" class="recommendation-image">
+            {% else %}
+                <p>No image found for {{ footwear }}</p>
+            {% endif %}
+        </div>
+    </div>
+    
+    <!-- Hidden input for recommendation ID -->
+    <input type="hidden" id="recommendation_id" value="{{ recommendation_id }}">
+
+    <button id="feedbackButton" data-temperature="{{ temperature }}">Ažuriraj preporuku</button>
+
+    <!-- Pop-up forma za povratne informacije -->
+    <div id="feedbackPopup" class="popup hidden">
+        <form id="popupFeedbackForm">
+            <input type="hidden" id="feedback_temperature">
+            <div>
+                <label for="popup_feedback_upper_wear">Gornja odjeća:</label>
+                <input type="text" id="popup_feedback_upper_wear" value="{{ upper_wear }}">
+            </div>
+            <div>
+                <label for="popup_feedback_lower_wear">Donja odjeća:</label>
+                <input type="text" id="popup_feedback_lower_wear" value="{{ lower_wear }}">
+            </div>
+            <div>
+                <label for="popup_feedback_footwear">Obuća:</label>
+                <input type="text" id="popup_feedback_footwear" value="{{ footwear }}">
+            </div>
+            <div>
+                <label for="popup_feedback_min_temp">Minimalna temperatura:</label>
+                <input type="number" id="popup_feedback_min_temp" step="0.1" required>
+            </div>
+            <div>
+                <label for="popup_feedback_max_temp">Maksimalna temperatura:</label>
+                <input type="number" id="popup_feedback_max_temp" step="0.1" required>
+            </div>
+            <button type="submit">Pošalji povratnu informaciju</button>
+        </form>
+    </div>
+</div>
+{% endblock %}

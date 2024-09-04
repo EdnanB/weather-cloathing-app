@@ -1,0 +1,1831 @@
+Temperature,Weather,Weather_Code,UpperWear_Male,LowerWear_Male,Footwear_Male,UpperWear_Female,LowerWear_Female,Footwear_Female
+-20,Clear,0,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-20,Clear,1,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-20,Clear,2,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-20,Clouds,3,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-20,Clouds,4,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-20,Clouds,5,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-20,Rainy,6,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-20,Rainy,7,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-20,Rainy,8,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-20,Drizzle,9,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-20,Drizzle,10,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-20,Drizzle,11,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-20,Thunderstorm,12,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-20,Thunderstorm,13,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-20,Thunderstorm,14,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-20,Snow,15,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-20,Snow,16,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-20,Snow,17,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-20,Foggy,18,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-20,Foggy,19,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-20,Foggy,20,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-20,Haze,21,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-20,Haze,22,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-20,Haze,23,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-20,Windy,24,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-20,Windy,25,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-20,Windy,26,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-20,Tornado,27,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-20,Tornado,28,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-20,Tornado,29,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-19,Clear,30,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-19,Clear,31,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-19,Clear,32,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-19,Clouds,33,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-19,Clouds,34,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-19,Clouds,35,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-19,Rainy,36,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-19,Rainy,37,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-19,Rainy,38,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-19,Drizzle,39,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-19,Drizzle,40,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-19,Drizzle,41,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-19,Thunderstorm,42,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-19,Thunderstorm,43,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-19,Thunderstorm,44,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-19,Snow,45,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-19,Snow,46,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-19,Snow,47,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-19,Foggy,48,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-19,Foggy,49,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-19,Foggy,50,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-19,Haze,51,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-19,Haze,52,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-19,Haze,53,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-19,Windy,54,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-19,Windy,55,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-19,Windy,56,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-19,Tornado,57,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-19,Tornado,58,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-19,Tornado,59,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-18,Clear,60,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-18,Clear,61,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-18,Clear,62,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-18,Clouds,63,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-18,Clouds,64,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-18,Clouds,65,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-18,Rainy,66,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-18,Rainy,67,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-18,Rainy,68,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-18,Drizzle,69,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-18,Drizzle,70,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-18,Drizzle,71,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-18,Thunderstorm,72,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-18,Thunderstorm,73,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-18,Thunderstorm,74,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-18,Snow,75,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-18,Snow,76,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-18,Snow,77,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-18,Foggy,78,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-18,Foggy,79,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-18,Foggy,80,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-18,Haze,81,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-18,Haze,82,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-18,Haze,83,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-18,Windy,84,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-18,Windy,85,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-18,Windy,86,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-18,Tornado,87,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-18,Tornado,88,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-18,Tornado,89,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-17,Clear,90,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-17,Clear,91,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-17,Clear,92,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-17,Clouds,93,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-17,Clouds,94,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-17,Clouds,95,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-17,Rainy,96,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-17,Rainy,97,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-17,Rainy,98,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-17,Drizzle,99,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-17,Drizzle,100,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-17,Drizzle,101,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-17,Thunderstorm,102,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-17,Thunderstorm,103,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-17,Thunderstorm,104,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-17,Snow,105,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-17,Snow,106,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-17,Snow,107,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-17,Foggy,108,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-17,Foggy,109,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-17,Foggy,110,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-17,Haze,111,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-17,Haze,112,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-17,Haze,113,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-17,Windy,114,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-17,Windy,115,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-17,Windy,116,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-17,Tornado,117,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-17,Tornado,118,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-17,Tornado,119,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-16,Clear,120,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-16,Clear,121,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-16,Clear,122,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-16,Clouds,123,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-16,Clouds,124,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-16,Clouds,125,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-16,Rainy,126,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-16,Rainy,127,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-16,Rainy,128,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-16,Drizzle,129,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-16,Drizzle,130,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-16,Drizzle,131,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-16,Thunderstorm,132,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-16,Thunderstorm,133,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-16,Thunderstorm,134,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-16,Snow,135,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-16,Snow,136,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-16,Snow,137,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-16,Foggy,138,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-16,Foggy,139,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-16,Foggy,140,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-16,Haze,141,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-16,Haze,142,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-16,Haze,143,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-16,Windy,144,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-16,Windy,145,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-16,Windy,146,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-16,Tornado,147,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-16,Tornado,148,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-16,Tornado,149,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-15,Clear,150,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-15,Clear,151,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-15,Clear,152,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-15,Clouds,153,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-15,Clouds,154,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-15,Clouds,155,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-15,Rainy,156,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-15,Rainy,157,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-15,Rainy,158,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-15,Drizzle,159,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-15,Drizzle,160,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-15,Drizzle,161,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-15,Thunderstorm,162,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-15,Thunderstorm,163,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-15,Thunderstorm,164,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-15,Snow,165,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-15,Snow,166,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-15,Snow,167,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-15,Foggy,168,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-15,Foggy,169,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-15,Foggy,170,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-15,Haze,171,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-15,Haze,172,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-15,Haze,173,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-15,Windy,174,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-15,Windy,175,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-15,Windy,176,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-15,Tornado,177,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-15,Tornado,178,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-15,Tornado,179,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-14,Clear,180,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-14,Clear,181,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-14,Clear,182,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-14,Clouds,183,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-14,Clouds,184,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-14,Clouds,185,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-14,Rainy,186,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-14,Rainy,187,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-14,Rainy,188,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-14,Drizzle,189,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-14,Drizzle,190,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-14,Drizzle,191,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-14,Thunderstorm,192,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-14,Thunderstorm,193,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-14,Thunderstorm,194,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-14,Snow,195,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-14,Snow,196,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-14,Snow,197,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-14,Foggy,198,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-14,Foggy,199,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-14,Foggy,200,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-14,Haze,201,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-14,Haze,202,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-14,Haze,203,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-14,Windy,204,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-14,Windy,205,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-14,Windy,206,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-14,Tornado,207,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-14,Tornado,208,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-14,Tornado,209,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-13,Clear,210,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-13,Clear,211,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-13,Clear,212,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-13,Clouds,213,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-13,Clouds,214,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-13,Clouds,215,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-13,Rainy,216,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-13,Rainy,217,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-13,Rainy,218,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-13,Drizzle,219,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-13,Drizzle,220,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-13,Drizzle,221,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-13,Thunderstorm,222,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-13,Thunderstorm,223,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-13,Thunderstorm,224,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-13,Snow,225,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-13,Snow,226,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-13,Snow,227,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-13,Foggy,228,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-13,Foggy,229,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-13,Foggy,230,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-13,Haze,231,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-13,Haze,232,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-13,Haze,233,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-13,Windy,234,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-13,Windy,235,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-13,Windy,236,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-13,Tornado,237,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-13,Tornado,238,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-13,Tornado,239,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-12,Clear,240,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-12,Clear,241,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-12,Clear,242,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-12,Clouds,243,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-12,Clouds,244,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-12,Clouds,245,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-12,Rainy,246,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-12,Rainy,247,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-12,Rainy,248,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-12,Drizzle,249,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-12,Drizzle,250,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-12,Drizzle,251,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-12,Thunderstorm,252,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-12,Thunderstorm,253,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-12,Thunderstorm,254,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-12,Snow,255,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-12,Snow,256,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-12,Snow,257,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-12,Foggy,258,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-12,Foggy,259,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-12,Foggy,260,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-12,Haze,261,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-12,Haze,262,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-12,Haze,263,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-12,Windy,264,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-12,Windy,265,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-12,Windy,266,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-12,Tornado,267,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-12,Tornado,268,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-12,Tornado,269,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-11,Clear,270,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-11,Clear,271,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-11,Clear,272,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-11,Clouds,273,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-11,Clouds,274,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-11,Clouds,275,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-11,Rainy,276,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-11,Rainy,277,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-11,Rainy,278,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-11,Drizzle,279,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-11,Drizzle,280,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-11,Drizzle,281,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-11,Thunderstorm,282,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-11,Thunderstorm,283,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-11,Thunderstorm,284,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-11,Snow,285,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-11,Snow,286,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-11,Snow,287,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-11,Foggy,288,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-11,Foggy,289,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-11,Foggy,290,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-11,Haze,291,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-11,Haze,292,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-11,Haze,293,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-11,Windy,294,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-11,Windy,295,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-11,Windy,296,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-11,Tornado,297,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-11,Tornado,298,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-11,Tornado,299,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-10,Clear,300,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-10,Clear,301,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-10,Clear,302,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-10,Clouds,303,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-10,Clouds,304,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-10,Clouds,305,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-10,Rainy,306,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-10,Rainy,307,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-10,Rainy,308,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-10,Drizzle,309,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-10,Drizzle,310,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-10,Drizzle,311,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-10,Thunderstorm,312,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-10,Thunderstorm,313,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-10,Thunderstorm,314,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-10,Snow,315,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-10,Snow,316,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-10,Snow,317,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-10,Foggy,318,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-10,Foggy,319,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-10,Foggy,320,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-10,Haze,321,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-10,Haze,322,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-10,Haze,323,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-10,Windy,324,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-10,Windy,325,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-10,Windy,326,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-10,Tornado,327,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-10,Tornado,328,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-10,Tornado,329,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-9,Clear,330,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-9,Clear,331,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-9,Clear,332,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-9,Clouds,333,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-9,Clouds,334,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-9,Clouds,335,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-9,Rainy,336,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-9,Rainy,337,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-9,Rainy,338,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-9,Drizzle,339,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-9,Drizzle,340,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-9,Drizzle,341,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-9,Thunderstorm,342,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-9,Thunderstorm,343,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-9,Thunderstorm,344,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-9,Snow,345,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-9,Snow,346,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-9,Snow,347,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-9,Foggy,348,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-9,Foggy,349,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-9,Foggy,350,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-9,Haze,351,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-9,Haze,352,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-9,Haze,353,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-9,Windy,354,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-9,Windy,355,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-9,Windy,356,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-9,Tornado,357,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-9,Tornado,358,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-9,Tornado,359,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-8,Clear,360,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-8,Clear,361,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-8,Clear,362,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-8,Clouds,363,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-8,Clouds,364,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-8,Clouds,365,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-8,Rainy,366,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-8,Rainy,367,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-8,Rainy,368,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-8,Drizzle,369,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-8,Drizzle,370,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-8,Drizzle,371,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-8,Thunderstorm,372,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-8,Thunderstorm,373,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-8,Thunderstorm,374,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-8,Snow,375,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-8,Snow,376,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-8,Snow,377,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-8,Foggy,378,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-8,Foggy,379,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-8,Foggy,380,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-8,Haze,381,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-8,Haze,382,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-8,Haze,383,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-8,Windy,384,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-8,Windy,385,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-8,Windy,386,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-8,Tornado,387,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-8,Tornado,388,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-8,Tornado,389,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-7,Clear,390,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-7,Clear,391,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-7,Clear,392,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-7,Clouds,393,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-7,Clouds,394,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-7,Clouds,395,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-7,Rainy,396,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-7,Rainy,397,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-7,Rainy,398,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-7,Drizzle,399,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-7,Drizzle,400,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-7,Drizzle,401,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-7,Thunderstorm,402,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-7,Thunderstorm,403,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-7,Thunderstorm,404,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-7,Snow,405,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-7,Snow,406,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-7,Snow,407,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-7,Foggy,408,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-7,Foggy,409,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-7,Foggy,410,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-7,Haze,411,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-7,Haze,412,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-7,Haze,413,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-7,Windy,414,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-7,Windy,415,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-7,Windy,416,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-7,Tornado,417,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-7,Tornado,418,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-7,Tornado,419,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-6,Clear,420,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-6,Clear,421,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-6,Clear,422,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-6,Clouds,423,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-6,Clouds,424,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-6,Clouds,425,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-6,Rainy,426,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-6,Rainy,427,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-6,Rainy,428,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-6,Drizzle,429,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-6,Drizzle,430,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-6,Drizzle,431,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-6,Thunderstorm,432,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-6,Thunderstorm,433,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-6,Thunderstorm,434,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-6,Snow,435,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-6,Snow,436,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-6,Snow,437,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-6,Foggy,438,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-6,Foggy,439,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-6,Foggy,440,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-6,Haze,441,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-6,Haze,442,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-6,Haze,443,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-6,Windy,444,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-6,Windy,445,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-6,Windy,446,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-6,Tornado,447,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-6,Tornado,448,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-6,Tornado,449,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-5,Clear,450,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-5,Clear,451,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-5,Clear,452,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-5,Clouds,453,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-5,Clouds,454,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-5,Clouds,455,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-5,Rainy,456,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-5,Rainy,457,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-5,Rainy,458,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-5,Drizzle,459,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-5,Drizzle,460,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-5,Drizzle,461,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-5,Thunderstorm,462,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-5,Thunderstorm,463,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-5,Thunderstorm,464,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-5,Snow,465,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-5,Snow,466,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-5,Snow,467,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-5,Foggy,468,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-5,Foggy,469,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-5,Foggy,470,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-5,Haze,471,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-5,Haze,472,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-5,Haze,473,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-5,Windy,474,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-5,Windy,475,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-5,Windy,476,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-5,Tornado,477,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-5,Tornado,478,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-5,Tornado,479,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-4,Clear,480,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-4,Clear,481,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-4,Clear,482,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-4,Clouds,483,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-4,Clouds,484,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-4,Clouds,485,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-4,Rainy,486,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-4,Rainy,487,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-4,Rainy,488,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-4,Drizzle,489,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-4,Drizzle,490,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-4,Drizzle,491,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-4,Thunderstorm,492,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-4,Thunderstorm,493,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-4,Thunderstorm,494,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-4,Snow,495,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-4,Snow,496,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-4,Snow,497,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-4,Foggy,498,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-4,Foggy,499,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-4,Foggy,500,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-4,Haze,501,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-4,Haze,502,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-4,Haze,503,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-4,Windy,504,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-4,Windy,505,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-4,Windy,506,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-4,Tornado,507,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-4,Tornado,508,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-4,Tornado,509,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-3,Clear,510,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-3,Clear,511,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-3,Clear,512,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-3,Clouds,513,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-3,Clouds,514,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-3,Clouds,515,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-3,Rainy,516,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-3,Rainy,517,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-3,Rainy,518,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-3,Drizzle,519,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-3,Drizzle,520,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-3,Drizzle,521,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-3,Thunderstorm,522,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-3,Thunderstorm,523,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-3,Thunderstorm,524,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-3,Snow,525,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-3,Snow,526,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-3,Snow,527,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-3,Foggy,528,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-3,Foggy,529,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-3,Foggy,530,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-3,Haze,531,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-3,Haze,532,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-3,Haze,533,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-3,Windy,534,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-3,Windy,535,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-3,Windy,536,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-3,Tornado,537,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-3,Tornado,538,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-3,Tornado,539,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-2,Clear,540,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-2,Clear,541,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-2,Clear,542,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-2,Clouds,543,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-2,Clouds,544,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-2,Clouds,545,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-2,Rainy,546,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-2,Rainy,547,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-2,Rainy,548,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-2,Drizzle,549,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-2,Drizzle,550,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-2,Drizzle,551,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-2,Thunderstorm,552,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-2,Thunderstorm,553,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-2,Thunderstorm,554,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-2,Snow,555,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-2,Snow,556,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-2,Snow,557,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-2,Foggy,558,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-2,Foggy,559,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-2,Foggy,560,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-2,Haze,561,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-2,Haze,562,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-2,Haze,563,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-2,Windy,564,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-2,Windy,565,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-2,Windy,566,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-2,Tornado,567,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-2,Tornado,568,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-2,Tornado,569,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-1,Clear,570,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-1,Clear,571,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+-1,Clear,572,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-1,Clouds,573,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-1,Clouds,574,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+-1,Clouds,575,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+-1,Rainy,576,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+-1,Rainy,577,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+-1,Rainy,578,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-1,Drizzle,579,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+-1,Drizzle,580,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+-1,Drizzle,581,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-1,Thunderstorm,582,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+-1,Thunderstorm,583,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+-1,Thunderstorm,584,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+-1,Snow,585,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+-1,Snow,586,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+-1,Snow,587,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+-1,Foggy,588,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+-1,Foggy,589,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+-1,Foggy,590,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-1,Haze,591,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+-1,Haze,592,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+-1,Haze,593,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+-1,Windy,594,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-1,Windy,595,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-1,Windy,596,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+-1,Tornado,597,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+-1,Tornado,598,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+-1,Tornado,599,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+0,Clear,600,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+0,Clear,601,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+0,Clear,602,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+0,Clouds,603,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+0,Clouds,604,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+0,Clouds,605,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+0,Rainy,606,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+0,Rainy,607,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+0,Rainy,608,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+0,Drizzle,609,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+0,Drizzle,610,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+0,Drizzle,611,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+0,Thunderstorm,612,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+0,Thunderstorm,613,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+0,Thunderstorm,614,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+0,Snow,615,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+0,Snow,616,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+0,Snow,617,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+0,Foggy,618,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+0,Foggy,619,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+0,Foggy,620,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+0,Haze,621,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+0,Haze,622,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+0,Haze,623,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+0,Windy,624,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+0,Windy,625,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+0,Windy,626,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+0,Tornado,627,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+0,Tornado,628,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+0,Tornado,629,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+1,Clear,630,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+1,Clear,631,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+1,Clear,632,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+1,Clouds,633,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+1,Clouds,634,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+1,Clouds,635,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+1,Rainy,636,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+1,Rainy,637,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+1,Rainy,638,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+1,Drizzle,639,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+1,Drizzle,640,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+1,Drizzle,641,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+1,Thunderstorm,642,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+1,Thunderstorm,643,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+1,Thunderstorm,644,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+1,Snow,645,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+1,Snow,646,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+1,Snow,647,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+1,Foggy,648,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+1,Foggy,649,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+1,Foggy,650,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+1,Haze,651,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+1,Haze,652,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+1,Haze,653,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+1,Windy,654,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+1,Windy,655,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+1,Windy,656,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+1,Tornado,657,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+1,Tornado,658,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+1,Tornado,659,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+2,Clear,660,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+2,Clear,661,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+2,Clear,662,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+2,Clouds,663,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+2,Clouds,664,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+2,Clouds,665,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+2,Rainy,666,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+2,Rainy,667,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+2,Rainy,668,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+2,Drizzle,669,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+2,Drizzle,670,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+2,Drizzle,671,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+2,Thunderstorm,672,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+2,Thunderstorm,673,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+2,Thunderstorm,674,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+2,Snow,675,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+2,Snow,676,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+2,Snow,677,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+2,Foggy,678,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+2,Foggy,679,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+2,Foggy,680,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+2,Haze,681,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+2,Haze,682,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+2,Haze,683,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+2,Windy,684,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+2,Windy,685,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+2,Windy,686,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+2,Tornado,687,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+2,Tornado,688,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+2,Tornado,689,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+3,Clear,690,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+3,Clear,691,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+3,Clear,692,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+3,Clouds,693,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+3,Clouds,694,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+3,Clouds,695,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+3,Rainy,696,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+3,Rainy,697,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+3,Rainy,698,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+3,Drizzle,699,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+3,Drizzle,700,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+3,Drizzle,701,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+3,Thunderstorm,702,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+3,Thunderstorm,703,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+3,Thunderstorm,704,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+3,Snow,705,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+3,Snow,706,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+3,Snow,707,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+3,Foggy,708,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+3,Foggy,709,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+3,Foggy,710,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+3,Haze,711,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+3,Haze,712,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+3,Haze,713,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+3,Windy,714,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+3,Windy,715,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+3,Windy,716,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+3,Tornado,717,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+3,Tornado,718,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+3,Tornado,719,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+4,Clear,720,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+4,Clear,721,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+4,Clear,722,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+4,Clouds,723,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+4,Clouds,724,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+4,Clouds,725,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+4,Rainy,726,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+4,Rainy,727,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+4,Rainy,728,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+4,Drizzle,729,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+4,Drizzle,730,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+4,Drizzle,731,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+4,Thunderstorm,732,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+4,Thunderstorm,733,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+4,Thunderstorm,734,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+4,Snow,735,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+4,Snow,736,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+4,Snow,737,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+4,Foggy,738,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+4,Foggy,739,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+4,Foggy,740,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+4,Haze,741,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+4,Haze,742,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+4,Haze,743,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+4,Windy,744,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+4,Windy,745,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+4,Windy,746,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+4,Tornado,747,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+4,Tornado,748,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+4,Tornado,749,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+5,Clear,750,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+5,Clear,751,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+5,Clear,752,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+5,Clouds,753,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+5,Clouds,754,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+5,Clouds,755,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+5,Rainy,756,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+5,Rainy,757,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+5,Rainy,758,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+5,Drizzle,759,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+5,Drizzle,760,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+5,Drizzle,761,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+5,Thunderstorm,762,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+5,Thunderstorm,763,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+5,Thunderstorm,764,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+5,Snow,765,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+5,Snow,766,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+5,Snow,767,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+5,Foggy,768,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+5,Foggy,769,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+5,Foggy,770,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+5,Haze,771,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+5,Haze,772,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+5,Haze,773,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+5,Windy,774,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+5,Windy,775,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+5,Windy,776,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+5,Tornado,777,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+5,Tornado,778,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+5,Tornado,779,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+6,Clear,780,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+6,Clear,781,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+6,Clear,782,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+6,Clouds,783,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+6,Clouds,784,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+6,Clouds,785,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+6,Rainy,786,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+6,Rainy,787,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+6,Rainy,788,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+6,Drizzle,789,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+6,Drizzle,790,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+6,Drizzle,791,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+6,Thunderstorm,792,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+6,Thunderstorm,793,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+6,Thunderstorm,794,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+6,Snow,795,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+6,Snow,796,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+6,Snow,797,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+6,Foggy,798,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+6,Foggy,799,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+6,Foggy,800,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+6,Haze,801,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+6,Haze,802,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+6,Haze,803,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+6,Windy,804,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+6,Windy,805,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+6,Windy,806,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+6,Tornado,807,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+6,Tornado,808,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+6,Tornado,809,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+7,Clear,810,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+7,Clear,811,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+7,Clear,812,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+7,Clouds,813,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+7,Clouds,814,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+7,Clouds,815,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+7,Rainy,816,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+7,Rainy,817,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+7,Rainy,818,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+7,Drizzle,819,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+7,Drizzle,820,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+7,Drizzle,821,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+7,Thunderstorm,822,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+7,Thunderstorm,823,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+7,Thunderstorm,824,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+7,Snow,825,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+7,Snow,826,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+7,Snow,827,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+7,Foggy,828,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+7,Foggy,829,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+7,Foggy,830,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+7,Haze,831,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+7,Haze,832,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+7,Haze,833,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+7,Windy,834,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+7,Windy,835,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+7,Windy,836,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+7,Tornado,837,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+7,Tornado,838,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+7,Tornado,839,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+8,Clear,840,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+8,Clear,841,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+8,Clear,842,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+8,Clouds,843,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+8,Clouds,844,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+8,Clouds,845,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+8,Rainy,846,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+8,Rainy,847,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+8,Rainy,848,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+8,Drizzle,849,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+8,Drizzle,850,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+8,Drizzle,851,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+8,Thunderstorm,852,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+8,Thunderstorm,853,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+8,Thunderstorm,854,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+8,Snow,855,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+8,Snow,856,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+8,Snow,857,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+8,Foggy,858,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+8,Foggy,859,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+8,Foggy,860,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+8,Haze,861,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+8,Haze,862,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+8,Haze,863,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+8,Windy,864,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+8,Windy,865,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+8,Windy,866,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+8,Tornado,867,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+8,Tornado,868,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+8,Tornado,869,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+9,Clear,870,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+9,Clear,871,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+9,Clear,872,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+9,Clouds,873,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+9,Clouds,874,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+9,Clouds,875,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+9,Rainy,876,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+9,Rainy,877,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+9,Rainy,878,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+9,Drizzle,879,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+9,Drizzle,880,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+9,Drizzle,881,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+9,Thunderstorm,882,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+9,Thunderstorm,883,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+9,Thunderstorm,884,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+9,Snow,885,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+9,Snow,886,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+9,Snow,887,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+9,Foggy,888,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+9,Foggy,889,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+9,Foggy,890,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+9,Haze,891,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+9,Haze,892,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+9,Haze,893,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+9,Windy,894,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+9,Windy,895,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+9,Windy,896,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+9,Tornado,897,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+9,Tornado,898,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+9,Tornado,899,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+10,Clear,900,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+10,Clear,901,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+10,Clear,902,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+10,Clouds,903,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+10,Clouds,904,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+10,Clouds,905,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+10,Rainy,906,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+10,Rainy,907,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+10,Rainy,908,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+10,Drizzle,909,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+10,Drizzle,910,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+10,Drizzle,911,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+10,Thunderstorm,912,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+10,Thunderstorm,913,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+10,Thunderstorm,914,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+10,Snow,915,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+10,Snow,916,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+10,Snow,917,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+10,Foggy,918,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+10,Foggy,919,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+10,Foggy,920,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+10,Haze,921,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+10,Haze,922,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+10,Haze,923,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+10,Windy,924,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+10,Windy,925,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+10,Windy,926,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+10,Tornado,927,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+10,Tornado,928,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+10,Tornado,929,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+11,Clear,930,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+11,Clear,931,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+11,Clear,932,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+11,Clouds,933,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+11,Clouds,934,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+11,Clouds,935,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+11,Rainy,936,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+11,Rainy,937,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+11,Rainy,938,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+11,Drizzle,939,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+11,Drizzle,940,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+11,Drizzle,941,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+11,Thunderstorm,942,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+11,Thunderstorm,943,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+11,Thunderstorm,944,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+11,Snow,945,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+11,Snow,946,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+11,Snow,947,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+11,Foggy,948,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+11,Foggy,949,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+11,Foggy,950,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+11,Haze,951,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+11,Haze,952,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+11,Haze,953,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+11,Windy,954,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+11,Windy,955,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+11,Windy,956,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+11,Tornado,957,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+11,Tornado,958,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+11,Tornado,959,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+12,Clear,960,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+12,Clear,961,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+12,Clear,962,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+12,Clouds,963,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+12,Clouds,964,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+12,Clouds,965,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+12,Rainy,966,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+12,Rainy,967,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+12,Rainy,968,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+12,Drizzle,969,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+12,Drizzle,970,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+12,Drizzle,971,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+12,Thunderstorm,972,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+12,Thunderstorm,973,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+12,Thunderstorm,974,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+12,Snow,975,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+12,Snow,976,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+12,Snow,977,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+12,Foggy,978,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+12,Foggy,979,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+12,Foggy,980,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+12,Haze,981,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+12,Haze,982,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+12,Haze,983,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+12,Windy,984,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+12,Windy,985,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+12,Windy,986,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+12,Tornado,987,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+12,Tornado,988,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+12,Tornado,989,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+13,Clear,990,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+13,Clear,991,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+13,Clear,992,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+13,Clouds,993,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+13,Clouds,994,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+13,Clouds,995,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+13,Rainy,996,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+13,Rainy,997,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+13,Rainy,998,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+13,Drizzle,999,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+13,Drizzle,1000,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+13,Drizzle,1001,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+13,Thunderstorm,1002,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+13,Thunderstorm,1003,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+13,Thunderstorm,1004,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+13,Snow,1005,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+13,Snow,1006,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+13,Snow,1007,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+13,Foggy,1008,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+13,Foggy,1009,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+13,Foggy,1010,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+13,Haze,1011,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+13,Haze,1012,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+13,Haze,1013,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+13,Windy,1014,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+13,Windy,1015,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+13,Windy,1016,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+13,Tornado,1017,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+13,Tornado,1018,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+13,Tornado,1019,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+14,Clear,1020,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+14,Clear,1021,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+14,Clear,1022,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+14,Clouds,1023,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+14,Clouds,1024,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+14,Clouds,1025,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+14,Rainy,1026,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+14,Rainy,1027,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+14,Rainy,1028,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+14,Drizzle,1029,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+14,Drizzle,1030,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+14,Drizzle,1031,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+14,Thunderstorm,1032,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+14,Thunderstorm,1033,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+14,Thunderstorm,1034,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+14,Snow,1035,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+14,Snow,1036,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+14,Snow,1037,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+14,Foggy,1038,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+14,Foggy,1039,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+14,Foggy,1040,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+14,Haze,1041,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+14,Haze,1042,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+14,Haze,1043,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+14,Windy,1044,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+14,Windy,1045,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+14,Windy,1046,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+14,Tornado,1047,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+14,Tornado,1048,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+14,Tornado,1049,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+15,Clear,1050,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+15,Clear,1051,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+15,Clear,1052,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+15,Clouds,1053,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+15,Clouds,1054,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+15,Clouds,1055,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+15,Rainy,1056,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+15,Rainy,1057,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+15,Rainy,1058,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+15,Drizzle,1059,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+15,Drizzle,1060,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+15,Drizzle,1061,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+15,Thunderstorm,1062,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+15,Thunderstorm,1063,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+15,Thunderstorm,1064,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+15,Snow,1065,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+15,Snow,1066,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+15,Snow,1067,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+15,Foggy,1068,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+15,Foggy,1069,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+15,Foggy,1070,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+15,Haze,1071,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+15,Haze,1072,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+15,Haze,1073,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+15,Windy,1074,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+15,Windy,1075,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+15,Windy,1076,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+15,Tornado,1077,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+15,Tornado,1078,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+15,Tornado,1079,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+16,Clear,1080,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+16,Clear,1081,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+16,Clear,1082,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+16,Clouds,1083,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+16,Clouds,1084,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+16,Clouds,1085,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+16,Rainy,1086,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+16,Rainy,1087,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+16,Rainy,1088,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+16,Drizzle,1089,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+16,Drizzle,1090,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+16,Drizzle,1091,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+16,Thunderstorm,1092,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+16,Thunderstorm,1093,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+16,Thunderstorm,1094,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+16,Snow,1095,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+16,Snow,1096,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+16,Snow,1097,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+16,Foggy,1098,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+16,Foggy,1099,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+16,Foggy,1100,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+16,Haze,1101,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+16,Haze,1102,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+16,Haze,1103,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+16,Windy,1104,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+16,Windy,1105,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+16,Windy,1106,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+16,Tornado,1107,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+16,Tornado,1108,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+16,Tornado,1109,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+17,Clear,1110,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+17,Clear,1111,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+17,Clear,1112,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+17,Clouds,1113,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+17,Clouds,1114,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+17,Clouds,1115,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+17,Rainy,1116,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+17,Rainy,1117,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+17,Rainy,1118,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+17,Drizzle,1119,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+17,Drizzle,1120,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+17,Drizzle,1121,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+17,Thunderstorm,1122,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+17,Thunderstorm,1123,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+17,Thunderstorm,1124,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+17,Snow,1125,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+17,Snow,1126,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+17,Snow,1127,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+17,Foggy,1128,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+17,Foggy,1129,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+17,Foggy,1130,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+17,Haze,1131,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+17,Haze,1132,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+17,Haze,1133,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+17,Windy,1134,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+17,Windy,1135,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+17,Windy,1136,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+17,Tornado,1137,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+17,Tornado,1138,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+17,Tornado,1139,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+18,Clear,1140,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+18,Clear,1141,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+18,Clear,1142,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+18,Clouds,1143,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+18,Clouds,1144,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+18,Clouds,1145,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+18,Rainy,1146,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+18,Rainy,1147,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+18,Rainy,1148,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+18,Drizzle,1149,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+18,Drizzle,1150,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+18,Drizzle,1151,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+18,Thunderstorm,1152,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+18,Thunderstorm,1153,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+18,Thunderstorm,1154,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+18,Snow,1155,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+18,Snow,1156,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+18,Snow,1157,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+18,Foggy,1158,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+18,Foggy,1159,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+18,Foggy,1160,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+18,Haze,1161,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+18,Haze,1162,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+18,Haze,1163,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+18,Windy,1164,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+18,Windy,1165,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+18,Windy,1166,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+18,Tornado,1167,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+18,Tornado,1168,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+18,Tornado,1169,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+19,Clear,1170,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+19,Clear,1171,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+19,Clear,1172,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+19,Clouds,1173,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+19,Clouds,1174,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+19,Clouds,1175,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+19,Rainy,1176,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+19,Rainy,1177,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+19,Rainy,1178,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+19,Drizzle,1179,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+19,Drizzle,1180,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+19,Drizzle,1181,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+19,Thunderstorm,1182,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+19,Thunderstorm,1183,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+19,Thunderstorm,1184,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+19,Snow,1185,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+19,Snow,1186,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+19,Snow,1187,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+19,Foggy,1188,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+19,Foggy,1189,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+19,Foggy,1190,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+19,Haze,1191,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+19,Haze,1192,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+19,Haze,1193,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+19,Windy,1194,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+19,Windy,1195,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+19,Windy,1196,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+19,Tornado,1197,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+19,Tornado,1198,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+19,Tornado,1199,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+20,Clear,1200,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+20,Clear,1201,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+20,Clear,1202,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+20,Clouds,1203,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+20,Clouds,1204,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+20,Clouds,1205,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+20,Rainy,1206,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+20,Rainy,1207,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+20,Rainy,1208,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+20,Drizzle,1209,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+20,Drizzle,1210,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+20,Drizzle,1211,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+20,Thunderstorm,1212,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+20,Thunderstorm,1213,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+20,Thunderstorm,1214,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+20,Snow,1215,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+20,Snow,1216,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+20,Snow,1217,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+20,Foggy,1218,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+20,Foggy,1219,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+20,Foggy,1220,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+20,Haze,1221,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+20,Haze,1222,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+20,Haze,1223,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+20,Windy,1224,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+20,Windy,1225,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+20,Windy,1226,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+20,Tornado,1227,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+20,Tornado,1228,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+20,Tornado,1229,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+21,Clear,1230,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+21,Clear,1231,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+21,Clear,1232,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+21,Clouds,1233,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+21,Clouds,1234,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+21,Clouds,1235,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+21,Rainy,1236,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+21,Rainy,1237,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+21,Rainy,1238,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+21,Drizzle,1239,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+21,Drizzle,1240,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+21,Drizzle,1241,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+21,Thunderstorm,1242,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+21,Thunderstorm,1243,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+21,Thunderstorm,1244,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+21,Snow,1245,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+21,Snow,1246,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+21,Snow,1247,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+21,Foggy,1248,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+21,Foggy,1249,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+21,Foggy,1250,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+21,Haze,1251,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+21,Haze,1252,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+21,Haze,1253,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+21,Windy,1254,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+21,Windy,1255,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+21,Windy,1256,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+21,Tornado,1257,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+21,Tornado,1258,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+21,Tornado,1259,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+22,Clear,1260,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+22,Clear,1261,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+22,Clear,1262,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+22,Clouds,1263,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+22,Clouds,1264,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+22,Clouds,1265,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+22,Rainy,1266,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+22,Rainy,1267,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+22,Rainy,1268,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+22,Drizzle,1269,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+22,Drizzle,1270,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+22,Drizzle,1271,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+22,Thunderstorm,1272,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+22,Thunderstorm,1273,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+22,Thunderstorm,1274,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+22,Snow,1275,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+22,Snow,1276,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+22,Snow,1277,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+22,Foggy,1278,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+22,Foggy,1279,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+22,Foggy,1280,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+22,Haze,1281,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+22,Haze,1282,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+22,Haze,1283,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+22,Windy,1284,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+22,Windy,1285,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+22,Windy,1286,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+22,Tornado,1287,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+22,Tornado,1288,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+22,Tornado,1289,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+23,Clear,1290,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+23,Clear,1291,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+23,Clear,1292,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+23,Clouds,1293,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+23,Clouds,1294,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+23,Clouds,1295,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+23,Rainy,1296,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+23,Rainy,1297,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+23,Rainy,1298,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+23,Drizzle,1299,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+23,Drizzle,1300,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+23,Drizzle,1301,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+23,Thunderstorm,1302,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+23,Thunderstorm,1303,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+23,Thunderstorm,1304,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+23,Snow,1305,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+23,Snow,1306,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+23,Snow,1307,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+23,Foggy,1308,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+23,Foggy,1309,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+23,Foggy,1310,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+23,Haze,1311,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+23,Haze,1312,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+23,Haze,1313,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+23,Windy,1314,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+23,Windy,1315,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+23,Windy,1316,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+23,Tornado,1317,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+23,Tornado,1318,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+23,Tornado,1319,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+24,Clear,1320,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+24,Clear,1321,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+24,Clear,1322,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+24,Clouds,1323,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+24,Clouds,1324,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+24,Clouds,1325,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+24,Rainy,1326,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+24,Rainy,1327,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+24,Rainy,1328,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+24,Drizzle,1329,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+24,Drizzle,1330,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+24,Drizzle,1331,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+24,Thunderstorm,1332,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+24,Thunderstorm,1333,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+24,Thunderstorm,1334,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+24,Snow,1335,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+24,Snow,1336,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+24,Snow,1337,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+24,Foggy,1338,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+24,Foggy,1339,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+24,Foggy,1340,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+24,Haze,1341,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+24,Haze,1342,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+24,Haze,1343,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+24,Windy,1344,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+24,Windy,1345,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+24,Windy,1346,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+24,Tornado,1347,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+24,Tornado,1348,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+24,Tornado,1349,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+25,Clear,1350,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+25,Clear,1351,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+25,Clear,1352,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+25,Clouds,1353,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+25,Clouds,1354,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+25,Clouds,1355,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+25,Rainy,1356,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+25,Rainy,1357,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+25,Rainy,1358,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+25,Drizzle,1359,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+25,Drizzle,1360,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+25,Drizzle,1361,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+25,Thunderstorm,1362,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+25,Thunderstorm,1363,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+25,Thunderstorm,1364,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+25,Snow,1365,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+25,Snow,1366,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+25,Snow,1367,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+25,Foggy,1368,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+25,Foggy,1369,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+25,Foggy,1370,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+25,Haze,1371,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+25,Haze,1372,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+25,Haze,1373,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+25,Windy,1374,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+25,Windy,1375,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+25,Windy,1376,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+25,Tornado,1377,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+25,Tornado,1378,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+25,Tornado,1379,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+26,Clear,1380,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+26,Clear,1381,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+26,Clear,1382,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+26,Clouds,1383,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+26,Clouds,1384,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+26,Clouds,1385,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+26,Rainy,1386,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+26,Rainy,1387,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+26,Rainy,1388,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+26,Drizzle,1389,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+26,Drizzle,1390,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+26,Drizzle,1391,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+26,Thunderstorm,1392,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+26,Thunderstorm,1393,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+26,Thunderstorm,1394,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+26,Snow,1395,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+26,Snow,1396,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+26,Snow,1397,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+26,Foggy,1398,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+26,Foggy,1399,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+26,Foggy,1400,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+26,Haze,1401,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+26,Haze,1402,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+26,Haze,1403,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+26,Windy,1404,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+26,Windy,1405,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+26,Windy,1406,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+26,Tornado,1407,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+26,Tornado,1408,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+26,Tornado,1409,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+27,Clear,1410,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+27,Clear,1411,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+27,Clear,1412,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+27,Clouds,1413,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+27,Clouds,1414,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+27,Clouds,1415,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+27,Rainy,1416,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+27,Rainy,1417,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+27,Rainy,1418,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+27,Drizzle,1419,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+27,Drizzle,1420,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+27,Drizzle,1421,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+27,Thunderstorm,1422,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+27,Thunderstorm,1423,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+27,Thunderstorm,1424,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+27,Snow,1425,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+27,Snow,1426,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+27,Snow,1427,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+27,Foggy,1428,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+27,Foggy,1429,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+27,Foggy,1430,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+27,Haze,1431,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+27,Haze,1432,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+27,Haze,1433,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+27,Windy,1434,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+27,Windy,1435,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+27,Windy,1436,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+27,Tornado,1437,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+27,Tornado,1438,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+27,Tornado,1439,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+28,Clear,1440,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+28,Clear,1441,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+28,Clear,1442,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+28,Clouds,1443,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+28,Clouds,1444,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+28,Clouds,1445,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+28,Rainy,1446,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+28,Rainy,1447,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+28,Rainy,1448,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+28,Drizzle,1449,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+28,Drizzle,1450,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+28,Drizzle,1451,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+28,Thunderstorm,1452,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+28,Thunderstorm,1453,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+28,Thunderstorm,1454,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+28,Snow,1455,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+28,Snow,1456,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+28,Snow,1457,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+28,Foggy,1458,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+28,Foggy,1459,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+28,Foggy,1460,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+28,Haze,1461,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+28,Haze,1462,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+28,Haze,1463,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+28,Windy,1464,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+28,Windy,1465,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+28,Windy,1466,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+28,Tornado,1467,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+28,Tornado,1468,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+28,Tornado,1469,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+29,Clear,1470,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+29,Clear,1471,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+29,Clear,1472,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+29,Clouds,1473,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+29,Clouds,1474,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+29,Clouds,1475,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+29,Rainy,1476,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+29,Rainy,1477,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+29,Rainy,1478,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+29,Drizzle,1479,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+29,Drizzle,1480,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+29,Drizzle,1481,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+29,Thunderstorm,1482,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+29,Thunderstorm,1483,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+29,Thunderstorm,1484,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+29,Snow,1485,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+29,Snow,1486,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+29,Snow,1487,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+29,Foggy,1488,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+29,Foggy,1489,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+29,Foggy,1490,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+29,Haze,1491,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+29,Haze,1492,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+29,Haze,1493,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+29,Windy,1494,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+29,Windy,1495,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+29,Windy,1496,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+29,Tornado,1497,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+29,Tornado,1498,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+29,Tornado,1499,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+30,Clear,1500,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+30,Clear,1501,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+30,Clear,1502,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+30,Clouds,1503,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+30,Clouds,1504,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+30,Clouds,1505,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+30,Rainy,1506,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+30,Rainy,1507,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+30,Rainy,1508,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+30,Drizzle,1509,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+30,Drizzle,1510,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+30,Drizzle,1511,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+30,Thunderstorm,1512,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+30,Thunderstorm,1513,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+30,Thunderstorm,1514,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+30,Snow,1515,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+30,Snow,1516,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+30,Snow,1517,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+30,Foggy,1518,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+30,Foggy,1519,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+30,Foggy,1520,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+30,Haze,1521,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+30,Haze,1522,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+30,Haze,1523,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+30,Windy,1524,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+30,Windy,1525,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+30,Windy,1526,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+30,Tornado,1527,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+30,Tornado,1528,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+30,Tornado,1529,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+31,Clear,1530,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+31,Clear,1531,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+31,Clear,1532,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+31,Clouds,1533,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+31,Clouds,1534,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+31,Clouds,1535,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+31,Rainy,1536,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+31,Rainy,1537,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+31,Rainy,1538,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+31,Drizzle,1539,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+31,Drizzle,1540,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+31,Drizzle,1541,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+31,Thunderstorm,1542,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+31,Thunderstorm,1543,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+31,Thunderstorm,1544,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+31,Snow,1545,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+31,Snow,1546,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+31,Snow,1547,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+31,Foggy,1548,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+31,Foggy,1549,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+31,Foggy,1550,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+31,Haze,1551,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+31,Haze,1552,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+31,Haze,1553,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+31,Windy,1554,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+31,Windy,1555,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+31,Windy,1556,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+31,Tornado,1557,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+31,Tornado,1558,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+31,Tornado,1559,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+32,Clear,1560,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+32,Clear,1561,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+32,Clear,1562,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+32,Clouds,1563,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+32,Clouds,1564,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+32,Clouds,1565,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+32,Rainy,1566,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+32,Rainy,1567,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+32,Rainy,1568,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+32,Drizzle,1569,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+32,Drizzle,1570,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+32,Drizzle,1571,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+32,Thunderstorm,1572,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+32,Thunderstorm,1573,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+32,Thunderstorm,1574,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+32,Snow,1575,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+32,Snow,1576,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+32,Snow,1577,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+32,Foggy,1578,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+32,Foggy,1579,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+32,Foggy,1580,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+32,Haze,1581,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+32,Haze,1582,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+32,Haze,1583,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+32,Windy,1584,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+32,Windy,1585,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+32,Windy,1586,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+32,Tornado,1587,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+32,Tornado,1588,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+32,Tornado,1589,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+33,Clear,1590,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+33,Clear,1591,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+33,Clear,1592,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+33,Clouds,1593,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+33,Clouds,1594,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+33,Clouds,1595,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+33,Rainy,1596,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+33,Rainy,1597,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+33,Rainy,1598,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+33,Drizzle,1599,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+33,Drizzle,1600,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+33,Drizzle,1601,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+33,Thunderstorm,1602,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+33,Thunderstorm,1603,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+33,Thunderstorm,1604,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+33,Snow,1605,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+33,Snow,1606,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+33,Snow,1607,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+33,Foggy,1608,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+33,Foggy,1609,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+33,Foggy,1610,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+33,Haze,1611,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+33,Haze,1612,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+33,Haze,1613,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+33,Windy,1614,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+33,Windy,1615,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+33,Windy,1616,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+33,Tornado,1617,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+33,Tornado,1618,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+33,Tornado,1619,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+34,Clear,1620,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+34,Clear,1621,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+34,Clear,1622,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+34,Clouds,1623,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+34,Clouds,1624,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+34,Clouds,1625,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+34,Rainy,1626,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+34,Rainy,1627,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+34,Rainy,1628,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+34,Drizzle,1629,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+34,Drizzle,1630,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+34,Drizzle,1631,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+34,Thunderstorm,1632,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+34,Thunderstorm,1633,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+34,Thunderstorm,1634,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+34,Snow,1635,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+34,Snow,1636,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+34,Snow,1637,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+34,Foggy,1638,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+34,Foggy,1639,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+34,Foggy,1640,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+34,Haze,1641,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+34,Haze,1642,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+34,Haze,1643,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+34,Windy,1644,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+34,Windy,1645,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+34,Windy,1646,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+34,Tornado,1647,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+34,Tornado,1648,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+34,Tornado,1649,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+35,Clear,1650,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+35,Clear,1651,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+35,Clear,1652,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+35,Clouds,1653,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+35,Clouds,1654,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+35,Clouds,1655,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+35,Rainy,1656,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+35,Rainy,1657,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+35,Rainy,1658,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+35,Drizzle,1659,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+35,Drizzle,1660,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+35,Drizzle,1661,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+35,Thunderstorm,1662,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+35,Thunderstorm,1663,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+35,Thunderstorm,1664,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+35,Snow,1665,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+35,Snow,1666,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+35,Snow,1667,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+35,Foggy,1668,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+35,Foggy,1669,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+35,Foggy,1670,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+35,Haze,1671,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+35,Haze,1672,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+35,Haze,1673,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+35,Windy,1674,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+35,Windy,1675,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+35,Windy,1676,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+35,Tornado,1677,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+35,Tornado,1678,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+35,Tornado,1679,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+36,Clear,1680,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+36,Clear,1681,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+36,Clear,1682,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+36,Clouds,1683,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+36,Clouds,1684,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+36,Clouds,1685,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+36,Rainy,1686,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+36,Rainy,1687,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+36,Rainy,1688,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+36,Drizzle,1689,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+36,Drizzle,1690,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+36,Drizzle,1691,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+36,Thunderstorm,1692,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+36,Thunderstorm,1693,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+36,Thunderstorm,1694,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+36,Snow,1695,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+36,Snow,1696,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+36,Snow,1697,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+36,Foggy,1698,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+36,Foggy,1699,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+36,Foggy,1700,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+36,Haze,1701,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+36,Haze,1702,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+36,Haze,1703,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+36,Windy,1704,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+36,Windy,1705,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+36,Windy,1706,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+36,Tornado,1707,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+36,Tornado,1708,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+36,Tornado,1709,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+37,Clear,1710,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+37,Clear,1711,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+37,Clear,1712,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+37,Clouds,1713,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+37,Clouds,1714,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+37,Clouds,1715,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+37,Rainy,1716,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+37,Rainy,1717,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+37,Rainy,1718,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+37,Drizzle,1719,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+37,Drizzle,1720,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+37,Drizzle,1721,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+37,Thunderstorm,1722,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+37,Thunderstorm,1723,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+37,Thunderstorm,1724,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+37,Snow,1725,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+37,Snow,1726,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+37,Snow,1727,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+37,Foggy,1728,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+37,Foggy,1729,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+37,Foggy,1730,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+37,Haze,1731,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+37,Haze,1732,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+37,Haze,1733,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+37,Windy,1734,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+37,Windy,1735,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+37,Windy,1736,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+37,Tornado,1737,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+37,Tornado,1738,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+37,Tornado,1739,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+38,Clear,1740,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+38,Clear,1741,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+38,Clear,1742,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+38,Clouds,1743,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+38,Clouds,1744,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+38,Clouds,1745,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+38,Rainy,1746,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+38,Rainy,1747,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+38,Rainy,1748,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+38,Drizzle,1749,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+38,Drizzle,1750,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+38,Drizzle,1751,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+38,Thunderstorm,1752,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+38,Thunderstorm,1753,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+38,Thunderstorm,1754,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+38,Snow,1755,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+38,Snow,1756,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+38,Snow,1757,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+38,Foggy,1758,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+38,Foggy,1759,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+38,Foggy,1760,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+38,Haze,1761,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+38,Haze,1762,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+38,Haze,1763,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+38,Windy,1764,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+38,Windy,1765,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+38,Windy,1766,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+38,Tornado,1767,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+38,Tornado,1768,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+38,Tornado,1769,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+39,Clear,1770,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+39,Clear,1771,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+39,Clear,1772,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+39,Clouds,1773,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+39,Clouds,1774,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+39,Clouds,1775,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+39,Rainy,1776,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+39,Rainy,1777,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+39,Rainy,1778,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+39,Drizzle,1779,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+39,Drizzle,1780,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+39,Drizzle,1781,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+39,Thunderstorm,1782,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+39,Thunderstorm,1783,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+39,Thunderstorm,1784,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+39,Snow,1785,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+39,Snow,1786,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+39,Snow,1787,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+39,Foggy,1788,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+39,Foggy,1789,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+39,Foggy,1790,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+39,Haze,1791,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+39,Haze,1792,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+39,Haze,1793,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+39,Windy,1794,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+39,Windy,1795,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+39,Windy,1796,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+39,Tornado,1797,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+39,Tornado,1798,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+39,Tornado,1799,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+40,Clear,1800,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+40,Clear,1801,T-shirt,Shorts,Sneakers,Blouse,Skirt,Flats
+40,Clear,1802,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+40,Clouds,1803,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+40,Clouds,1804,Polo,Chinos,Loafers,Sweater,Jeans,Boots
+40,Clouds,1805,Sweatshirt,Jeans,Boots,T-shirt,Trousers,Loafers
+40,Rainy,1806,Long Sleeve Shirt,Pants,Boots,Long Sleeve Shirt,Pants,Boots
+40,Rainy,1807,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots,"Raincoat, Long Sleeve Shirt",Pants,Rain Boots
+40,Rainy,1808,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+40,Drizzle,1809,"Coat, Long Sleeve Shirt",Pants,Boots,"Coat, Long Sleeve Shirt",Pants,Boots
+40,Drizzle,1810,"Trench Coat, Long Sleeve Shirt",Pants,Loafers,"Trench Coat, Long Sleeve Shirt",Pants,Heels
+40,Drizzle,1811,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+40,Thunderstorm,1812,Long Sleeve Shirt,Jeans,Boots,Blouse,Jeans,Boots
+40,Thunderstorm,1813,"Waterproof Jacket, Long Sleeve Shirt",Jeans,Boots,"Waterproof Jacket, Blouse",Jeans,Boots
+40,Thunderstorm,1814,Sweatshirt,Pants,Rain Boots,Sweater,Pants,Rain Boots
+40,Snow,1815,"Coat, Sweater",Pants,Boots,"Coat, Sweater",Pants,Boots
+40,Snow,1816,"Parka, Sweater",Pants,Snow Boots,"Parka, Sweater",Pants,Snow Boots
+40,Snow,1817,Sweater,Jeans,Boots,Sweater,Jeans,Boots
+40,Foggy,1818,"Jacket, Long Sleeve Shirt",Jeans,Sneakers,"Jacket, Long Sleeve Shirt",Jeans,Sneakers
+40,Foggy,1819,Hoodie,Jeans,Sneakers,Hoodie,Jeans,Sneakers
+40,Foggy,1820,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+40,Haze,1821,T-shirt,Shorts,Sandals,T-shirt,Skirt,Sandals
+40,Haze,1822,T-shirt,Jeans,Sneakers,Blouse,Jeans,Sneakers
+40,Haze,1823,Polo,Shorts,Loafers,Tank Top,Shorts,Sneakers
+40,Windy,1824,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+40,Windy,1825,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+40,Windy,1826,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots
+40,Tornado,1827,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers,"Windbreaker, Long Sleeve Shirt",Jeans,Sneakers
+40,Tornado,1828,"Jacket, Long Sleeve Shirt",Pants,Boots,"Jacket, Long Sleeve Shirt",Pants,Boots
+40,Tornado,1829,Sweatshirt,Jeans,Boots,Sweatshirt,Jeans,Boots

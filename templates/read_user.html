@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="centered-container wider-container">
+    <h2>Detalji o korisniku</h2>
+    <div class="user-details">
+        <p><span class="highlight-label">ID:</span> {{ user.id }}</p>
+        <p><span class="highlight-label">Korisničko ime:</span> {{ user.username }}</p>
+        <p><span class="highlight-label">Email adresa:</span> {{ user.email }}</p>
+        <p><span class="highlight-label">Ime:</span> {{ user.ime }}</p>
+        <p><span class="highlight-label">Prezime:</span> {{ user.prezime }}</p>
+        <p><span class="highlight-label">Spol:</span> {{ user.spol }}</p>
+    </div>
+    <a href="{{ url_for('admin_panel') }}" class="button">Nazad na Admin Panel</a>
+</div>
+{% endblock %}

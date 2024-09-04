@@ -1,0 +1,31 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="centered-container wider-container">
+    <h2>Uredi korisnika</h2>
+    <form action="{{ url_for('update_user_route', user_id=user.id) }}" method="post" class="styled-form">
+        <label for="current_password" class="highlight-label">Trenutna lozinka:</label>
+        <input type="password" id="current_password" name="current_password" required>
+        
+        <label for="new_username" class="highlight-label">Novo korisničko ime:</label>
+        <input type="text" id="new_username" name="new_username" value="{{ user.username }}" required>
+        
+        <label for="new_password" class="highlight-label">Nova lozinka:</label>
+        <input type="password" id="new_password" name="new_password">
+        
+        <label for="new_ime" class="highlight-label">Novo ime:</label>
+        <input type="text" id="new_ime" name="new_ime" value="{{ user.ime }}" required>
+        
+        <label for="new_prezime" class="highlight-label">Novo prezime:</label>
+        <input type="text" id="new_prezime" name="new_prezime" value="{{ user.prezime }}" required>
+        
+        <label for="new_spol" class="highlight-label">Novi spol:</label>
+        <select id="new_spol" name="new_spol" required>
+            <option value="male" {% if user.spol == 'male' %}selected{% endif %}>Muško</option>
+            <option value="female" {% if user.spol == 'female' %}selected{% endif %}>Žensko</option>
+        </select>
+        
+        <button type="submit" class="button">Ažuriraj korisnika</button>
+    </form>
+    <a href="{{ url_for('admin_panel') }}" class="button">Nazad na Admin Panel</a>
+</div>
+{% endblock %}
