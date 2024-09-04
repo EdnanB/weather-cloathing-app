@@ -1,6 +1,6 @@
-// Dodavanje event listenera kada je DOM potpuno učitan
+
 document.addEventListener('DOMContentLoaded', function() { //DOM (Document Object Model) 
-    // JavaScript za hamburger meni
+
     const menuButton = document.querySelector('.menu-button');
     const menu = document.querySelector('.menu');
 
@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() { //DOM (Document Objec
         });
     }
 
-    // Klikabilni gradovi samo za logovane korisnike koji nisu admini
+
     const cityWeatherElements = document.querySelectorAll('.clickable-city:not(.non-clickable)');
     cityWeatherElements.forEach(cityElement => {
         cityElement.addEventListener('click', function() {
@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() { //DOM (Document Objec
         });
     });
 
-    // Obrada promene u dropdown meniju za odabir države
+
     const countrySelect = document.getElementById('country');
     if (countrySelect) {
         countrySelect.addEventListener('change', function() {
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() { //DOM (Document Objec
         });
     }
 
-    // Prikazivanje pop-up prozora za povratne informacije
+
     const feedbackButton = document.getElementById('feedbackButton');
     const feedbackPopup = document.getElementById('feedbackPopup');
     const popupFeedbackForm = document.getElementById('popupFeedbackForm');
@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() { //DOM (Document Objec
     }
 });
 
-// Funkcija za kapitalizaciju reči u stringu
+
 function capitalizeWords(str) {
     return str.replace(/\b\w+/g, function(txt) {
         return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
